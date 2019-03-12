@@ -1,0 +1,9 @@
+﻿namespace CustomerForm
+{
+    class Customer
+    {
+        
+
+
+    }
+}
