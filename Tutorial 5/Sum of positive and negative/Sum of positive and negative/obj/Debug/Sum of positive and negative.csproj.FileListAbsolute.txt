@@ -1,0 +1,6 @@
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\bin\Debug\Sum of positive and negative.exe.config
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\bin\Debug\Sum of positive and negative.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\bin\Debug\Sum of positive and negative.pdb
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\obj\Debug\Sum of positive and negative.csprojResolveAssemblyReference.cache
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\obj\Debug\Sum of positive and negative.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 5\Sum of positive and negative\Sum of positive and negative\obj\Debug\Sum of positive and negative.pdb
