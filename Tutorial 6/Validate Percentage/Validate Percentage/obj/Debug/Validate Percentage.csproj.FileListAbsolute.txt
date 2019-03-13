@@ -1,0 +1,6 @@
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\bin\Debug\Validate Percentage.exe.config
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\bin\Debug\Validate Percentage.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\bin\Debug\Validate Percentage.pdb
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\obj\Debug\Validate Percentage.csprojResolveAssemblyReference.cache
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\obj\Debug\Validate Percentage.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Validate Percentage\Validate Percentage\obj\Debug\Validate Percentage.pdb

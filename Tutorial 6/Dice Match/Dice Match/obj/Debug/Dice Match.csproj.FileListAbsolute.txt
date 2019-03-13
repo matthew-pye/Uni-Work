@@ -1,0 +1,3 @@
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Dice Match\Dice Match\bin\Debug\Dice Match.exe.config
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Dice Match\Dice Match\obj\Debug\Dice Match.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 6\Dice Match\Dice Match\obj\Debug\Dice Match.pdb
