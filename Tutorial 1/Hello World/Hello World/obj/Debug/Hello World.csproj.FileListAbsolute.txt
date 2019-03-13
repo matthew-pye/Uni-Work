@@ -1,0 +1,6 @@
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\bin\Debug\Hello World.exe.config
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\bin\Debug\Hello World.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\bin\Debug\Hello World.pdb
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\obj\Debug\Hello World.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\Hello World\Hello World\obj\Debug\Hello World.pdb

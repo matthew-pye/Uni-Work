@@ -1,0 +1,6 @@
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.exe.config
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\bin\Debug\PersonalDetails.pdb
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.csprojResolveAssemblyReference.cache
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.exe
+H:\Computing\HNC\Programming Concept\Programs\Tutorials\Tutorial 1\PersonalDetails\PersonalDetails\obj\Debug\PersonalDetails.pdb
