@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaseUnit.BaseUnit">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEABAAAAAAAAAAAEAQAAAACAAAAABAAAAAAAAAQAAAA=</HashCode>
+      <FileName>BaseUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUnit.GraphicsCard">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>GraphicsCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUnit.Motherboard">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAIAAAA=</HashCode>
+      <FileName>Motherboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUnit.PowerSupply">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerSupply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUnit.Processor">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAACAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Processor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseUnit.RAMemory">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAiAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RAMemory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BaseUnit.RAMType">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RAMType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
